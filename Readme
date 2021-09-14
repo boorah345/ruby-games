@@ -1,2 +1,8 @@
 # created by boorah 436
 save your file using the ruby extension .rb
+1. get the user name with the input object
+2. display a welcome message with the puts object
+3. use the chomp method to add an ! sign without going to the next line
+4. interpolate the input , and display it
+5.give a target number and range
+6. get a guess from the user , but convert too number using the .to_i
